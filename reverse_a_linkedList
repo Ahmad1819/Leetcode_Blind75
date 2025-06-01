@@ -1,0 +1,37 @@
+#LeetCode Problem 6: 206. Reverse Linked List
+
+Solution 1: with Iterative space
+TimeComplexity: O(n)
+
+class Solution {
+    public ListNode reverseList(ListNode head) {
+        ListNode prev=null;
+        ListNode current = head;
+        while(current!=null){
+            ListNode nextNode = current.next;
+            current.next = prev;
+            prev = current;
+            current = nextNode;
+        }
+        return prev;
+        
+    }
+
+}
+
+Solution 2: with Recursive Approach
+TimeComplexity: O(n)
+SpaceComplexity: O(n) (due to call stack)
+
+class Solution {
+    public ListNode reverseList(ListNode head) {
+        if(head == null || head.next == null) return head;
+
+        ListNode nexthead = reverseList(head.next);
+        head.next.next = head;
+        head.next = null;
+        return nexthead;
+        
+    }
+
+}
