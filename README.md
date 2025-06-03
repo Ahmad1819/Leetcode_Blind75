@@ -52,9 +52,9 @@ This repository contains solutions to the famous LeetCode Blind 75 problems.
 29. Pacific Atlantic Water Flow (LeetCode #417)
 30. Number of Islands (LeetCode #200)
 31. Longest Consecutive Sequence (LeetCode #128)
-32. Alien Dictionary (LeetCode Premium)
-33. Graph Valid Tree (LeetCode Premium)
-34. Number of Connected Components in an Undirected Graph (LeetCode Premium)
+32. Alien Dictionary (LeetCode #269 - Premium)
+33. Graph Valid Tree (LeetCode #261 - Premium)
+34. Number of Connected Components in an Undirected Graph (LeetCode #323 - Premium)
 
 ---
 
@@ -63,8 +63,8 @@ This repository contains solutions to the famous LeetCode Blind 75 problems.
 35. Insert Interval (LeetCode #57)
 36. Merge Intervals (LeetCode #56)
 37. Non-overlapping Intervals (LeetCode #435)
-38. Meeting Rooms (LeetCode Premium)
-39. Meeting Rooms II (LeetCode Premium)
+38. Meeting Rooms (LeetCode #252 - Premium)
+39. Meeting Rooms II (LeetCode #253 - Premium)
 
 ---
 
@@ -99,7 +99,7 @@ This repository contains solutions to the famous LeetCode Blind 75 problems.
 56. Valid Palindrome (LeetCode #125)
 57. Longest Palindromic Substring (LeetCode #5)
 58. Palindromic Substrings (LeetCode #647)
-59. Encode and Decode Strings (LeetCode Premium)
+59. Encode and Decode Strings (LeetCode #271 - Premium)
 
 ---
 
@@ -116,21 +116,22 @@ This repository contains solutions to the famous LeetCode Blind 75 problems.
 68. Validate Binary Search Tree (LeetCode #98)
 69. Kth Smallest Element in a BST (LeetCode #230)
 70. Lowest Common Ancestor of BST (LeetCode #235)
+71. Diameter of Binary Tree (LeetCode #543)
 
 ---
 
 ## 🧩 Trie (72–74)
 
-71. Implement Trie (Prefix Tree) (LeetCode #208)
-72. Add and Search Word (LeetCode #211)
-73. Word Search II (LeetCode #212)
+72. Implement Trie (Prefix Tree) (LeetCode #208)
+73. Add and Search Word (LeetCode #211)
+74. Word Search II (LeetCode #212)
 
 ---
 
-## 🧰 Heap (75)
+## 🧰 Heap (75–76)
 
-74. Top K Frequent Elements (LeetCode #347)
-75. Find Median from Data Stream (LeetCode #295)
+75. Top K Frequent Elements (LeetCode #347)
+76. Find Median from Data Stream (LeetCode #295)
 
 ---
 
